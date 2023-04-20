@@ -1,5 +1,5 @@
 ---
-"my-package": patch
+"morph": patch
 ---
-
-Added the add function
+ 
+Storybook added
